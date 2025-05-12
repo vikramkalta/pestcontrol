@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://peststopcontrol.com
+
+# Sitemaps
+Sitemap: https://peststopcontrol.com/sitemap.xml
